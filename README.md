@@ -1,10 +1,10 @@
 ## Hi there 👋
-<p>
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&show_owner=true&theme=tokyonight"/>
+<div>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&show_owner=true&theme=tokyonight"/>
   <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </p>
-</p>
+</div>
 <!--
 **davidedantonio/davidedantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
