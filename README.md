@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+Hi! I’m Davide D’Antonio, a Full Stack Developer and Tech Lead at [https://finanza.tech](Finanza.tech). I specialize in both backend and frontend development, working with technologies like Fastify and Fluentd to build scalable and high-performance applications. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community. On my GitHub profile, you can explore the projects I’ve been working on and get a glimpse of my development journey.
+
+Feel free to check out my code and collaborations!
+
 <div>
   <img align="left" width="490" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&show_owner=true&theme=tokyonight"/>
   <p>
@@ -39,8 +44,6 @@
     <a href="https://twitter.com/davidedantonio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </p>
   <p>
-    <img src="https://img.shields.io/github/languages/code-size/davidedantonio/finanzatech" />
-
   </p>
 </div>
 <!--
