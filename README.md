@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wezterm-4E49EE?style=flat-square&logo=Wezterm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lazyvim-2E7DE9?style=flat-square&logo=Lazyvim&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=GitHub%20Copilot&logoColor=white" />
   </p>
   <p>
@@ -33,7 +34,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
