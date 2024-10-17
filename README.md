@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/><br />
     <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>  
     <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cypress-69D3A7?style=flat-square&logo=Cypress&logoColor=white" />
     <img src="https://img.shields.io/badge/-Biome-60A5FA?style=flat-square&logo=Biome&logoColor=white" />
@@ -28,6 +29,8 @@
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+    
   </p>
   <p>
   📣 You can find me here:<br/>
