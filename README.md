@@ -40,32 +40,19 @@ Feel free to check out my code and collaborations!
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
   </p>
   <p>
-  📣 You can find me here:<br/>
+    📫 You can find me here:<br/><br/>
     <a href="mailto:davide.dantonio1984@gmail.com?subject=[GitHub] 🔥%Contact me&body=Hello%20Davide%2C%0A%0AI%20saw%20your%20Github%20profile ..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
     <a href="https://www.instagram.com/davidedantonio"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/davidedantonio"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/davidedantonio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </p>
   <p>
-    🧔 I'm Davide. 40 years old, a lover of code and 🍺.<br/>
-    💼 I live in Pompei, Italy.<br/>
-    💻 Full Stack Developer and Tech Lead working @ Finanza.tech.<br/>
-    🎓 Degree in Computer Science and a Teacher when it's possible.<br/>
-    💑 Married with Milena<br/>
-    🤓 Huge Nerd!<br/>
+    - 🧔 I'm Davide. 40 years old, a lover of code and 🍺.
+    - 💼 I live in Pompei, Italy.
+    - 💻 Full Stack Developer and Tech Lead working @ Finanza.tech.
+    - 🎓 Degree in Computer Science and a Teacher when it's possible.
+    - 💑 Married with Milena
+    - 🤓 Huge Nerd!
+    - 🌱 I’m currently learning Python
   </p>
 </div>
-<!--
-**davidedantonio/davidedantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
