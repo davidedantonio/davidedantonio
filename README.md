@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white" />
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
-    
   </p>
   <p>
   📣 You can find me here:<br/>
@@ -38,6 +37,10 @@
     <a href="https://www.instagram.com/davidedantonio"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/davidedantonio"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/davidedantonio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/github/languages/code-size/davidedantonio/finanzatech" />
+
   </p>
 </div>
 <!--
