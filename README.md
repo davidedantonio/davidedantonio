@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Hi! I’m Davide D’Antonio, a Full Stack Developer and Tech Lead at [FINANZA.TECH](https://finanza.tech). I specialize in both backend and frontend development, working with technologies like JavaScript to build scalable and high-performance applications. 
-In FT, I also help businesses find innovative solutions to achieve true digital transformation in the fintech space. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community.
+Hi! I’m Davide D’Antonio, a Software Engineer and Tech Lead at [FINANZA.TECH](https://finanza.tech). I specialized in backend and frontend development, working with technologies like JavaScript to build scalable and high-performance applications.
+In FT, I also help businesses find innovative solutions to achieve true digital transformation in the fintech world. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community.
 
 On my GitHub profile, you can explore the projects I’ve been working on and get a glimpse of my development journey.
 
@@ -45,6 +45,7 @@ Feel free to check out my code and collaborations!
     <a href="https://www.instagram.com/davidedantonio"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/davidedantonio"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/davidedantonio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://medium.com/@davide-dantonio"><img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
   </p>
   <p>
     - 🧔 I'm Davide. 40 years old, a lover of code and 🍺.
