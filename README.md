@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/><br />
+    <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+    
   </p>
   <p>
   📣 You can find me here:<br/>
