@@ -20,9 +20,14 @@
     <img src="https://img.shields.io/badge/-Lazyvim-2E7DE9?style=flat-square&logo=Lazyvim&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=GitHub%20Copilot&logoColor=white" /><br />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"
+    <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white" />
   </p>
   <p>
   📣 You can find me here:<br/>
