@@ -18,7 +18,11 @@
     <img src="https://img.shields.io/badge/-Wezterm-4E49EE?style=flat-square&logo=Wezterm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white" />
     <img src="https://img.shields.io/badge/-Lazyvim-2E7DE9?style=flat-square&logo=Lazyvim&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=GitHub%20Copilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=GitHub%20Copilot&logoColor=white" /><br />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"
   </p>
   <p>
   📣 You can find me here:<br/>
