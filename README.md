@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Hi! I’m Davide D’Antonio, a Full Stack Developer and Tech Lead at [https://finanza.tech](Finanza.tech). I specialize in both backend and frontend development, working with technologies like Fastify and Fluentd to build scalable and high-performance applications. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community. On my GitHub profile, you can explore the projects I’ve been working on and get a glimpse of my development journey.
+Hi! I’m Davide D’Antonio, a Full Stack Developer and Tech Lead at [FINANZA.TECH](https://finanza.tech). I specialize in both backend and frontend development, working with technologies like JavaScript to build scalable and high-performance applications. 
+In FT, I also help businesses find innovative solutions to achieve true digital transformation in the fintech space. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community.
+
+On my GitHub profile, you can explore the projects I’ve been working on and get a glimpse of my development journey.
 
 Feel free to check out my code and collaborations!
 
@@ -44,6 +47,12 @@ Feel free to check out my code and collaborations!
     <a href="https://twitter.com/davidedantonio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </p>
   <p>
+    🧔 I'm Davide. 40 years old, a lover of code and 🍺.<br/>
+    💼 I live in Pompei, Italy.<br/>
+    💻 Full Stack Developer and Tech Lead working @ Finanza.tech.<br/>
+    🎓 Degree in Computer Science and a Teacher when it's possible.<br/>
+    💑 Married with Milena<br/>
+    🤓 Huge Nerd!<br/>
   </p>
 </div>
 <!--
