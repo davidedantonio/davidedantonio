@@ -1,7 +1,10 @@
 ## Hi there 👋
-
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-
+<p>
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </p>
+</p>
 <!--
 **davidedantonio/davidedantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
