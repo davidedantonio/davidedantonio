@@ -48,7 +48,7 @@ Feel free to check out my code and collaborations!
     <a href="https://medium.com/@davide-dantonio"><img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
   </p>
   <p>
-    - 🧔 I'm Davide. 40 years old, a lover of code and 🍺.<br/>
+    - 🧔 I'm Davide. a lover of code and 🍺.<br/>
     - 💼 I live in Pompei, Italy.<br/>
     - 💻 Full Stack Developer and Tech Lead working @ Finanza.tech.<br/>
     - 🎓 Degree in Computer Science and a Teacher when it's possible.<br/>
