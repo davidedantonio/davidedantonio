@@ -3,9 +3,7 @@
 Hi! I’m Davide D’Antonio, a Software Engineer and Tech Lead at [FINANZA.TECH](https://finanza.tech). I specialized in backend and frontend development, working with technologies like JavaScript to build scalable and high-performance applications.
 In FT, I also help businesses find innovative solutions to achieve true digital transformation in the fintech world. I’m passionate about coding and enjoy contributing to open-source projects, sharing my experiences and solutions with the developer community.
 
-On my GitHub profile, you can explore the projects I’ve been working on and get a glimpse of my development journey.
-
-Feel free to check out my code and collaborations!
+On my GitHub profile, you can explore the projects I’ve been working on. Feel free to check out my code and collaborations!
 
 <div>
   <img align="left" width="490" src="https://github-readme-stats.vercel.app/api?username=davidedantonio&show_icons=true&show_owner=true&theme=tokyonight"/>
