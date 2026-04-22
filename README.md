@@ -52,6 +52,5 @@ On my GitHub profile, you can explore the projects I’ve been working on. Feel 
     - 🎓 Degree in Computer Science and a Teacher when it's possible.<br/>
     - 💑 Married with Milena and father of two.<br/>
     - 🤓 Huge Nerd!<br/>
-    - 🌱 I’m currently learning Rust.<br/>
   </p>
 </div>
